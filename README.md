@@ -38,8 +38,6 @@
   <img align="center" alt="Matheus-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
 
-<br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matheus-Assumpcao/Matheus-Assumpcao/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Matheus-Assumpcao/Matheus-Assumpcao/output/github-contribution-grid-snake.svg">
