@@ -1,8 +1,8 @@
-### Olá! Eu sou o Matheus Assumpção, sinta-se à vontade aqui no meu GitHub!
+### Sejá Bem-Vindo ao meu GitHub!
 
 ##
 
-###🚀 Sobre mim
+🚀 Sobre mim
 👋 Olá! Sou Matheus Assumpção, um desenvolvedor Fullstack Júnior, apaixonado por tecnologia e soluções eficientes. Meu foco principal é o desenvolvimento back-end, onde trabalho com Node.js, PHP e Spring Boot (Kotlin) para criar APIs escaláveis e seguras.
 
 ### Conecte-se Comigo
