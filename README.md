@@ -2,15 +2,7 @@
 
 ##
 
-🎓 Cursando MBA em Engenharia de Software na FIAP e formado em Análise e Desenvolvimento de Sistemas e Processos Gerenciais pelo Centro Universitário Eniac. Sou desenvolvedor fullstack, com foco principal no back-end, criando soluções escaláveis e eficientes para empresas.
-
-💻 Tenho experiência com PHP e JavaScript, atuando tanto no front-end (React) quanto no back-end (Node.js). Além disso, trabalho com Java e Kotlin (puro e com Spring Boot) para criar sistemas robustos e de alta performance.
-
-🔗 Possuo experiência no desenvolvimento e consumo de APIs RESTful, aplicando JWT para autenticação segura quando necessário.
-
-🐍 Também utilizo Python para automação de processos, otimizando fluxos de trabalho e aumentando a produtividade por meio de RPA.
-
-🚀 Com o conhecimento adquirido no MBA, busco aprimorar minhas habilidades em engenharia de software e gestão, visando alcançar cargos de liderança.
+Sou desenvolvedor fullstack com foco em back-end, com sólida experiência no desenvolvimento de APIs, aplicações web e automação de processos. Atuo em todo o ciclo de desenvolvimento, prezando por código limpo, segurança, performance e escalabilidade. Atualmente curso MBA em Engenharia de Software pela FIAP, visando crescimento técnico e estratégico para assumir desafios maiores.
 
 ### Conecte-se Comigo
 
