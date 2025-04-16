@@ -11,14 +11,14 @@ Sou desenvolvedor fullstack com foco em back-end, com sólida experiência no de
 ## Front-End 💡
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react" />
   </a>
 </p>
 
 ## Back-End ☕
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,dotnet,maven,postgres,postman,mysql,mongodb,cs,c,php" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,php,nodejs,postman,mysql,mongodb" />
   </a>
 </p>
 
