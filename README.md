@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF512C&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=19a1ee&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF422C&size=35&center=true&vCenter=true&width=1000&lines=Olá+Visitante!+Eu+sou+o+Matheus+Assumpção;Seja+Bem-Vindo+ao+meu+GitHub!;Olá+Visitante!+Eu+sou+o+Matheus+Assumpção;Seja+Bem-Vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
 <br>
@@ -24,23 +24,26 @@ Sou desenvolvedor fullstack com foco em back-end, com sólida experiência no de
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Assumpcao&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-### Tecnologias que uso no meu dia a dia
+## Front-End 💡
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,figma" />
+  </a>
+</p>
 
-##
+## Back-End ☕
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,dotnet,maven,postgres,postman,mysql,mongodb,cs,c,php" />
+  </a>
+</p>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Matheus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />  
-  <img align="center" alt="Matheus" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img align="center" alt="Matheus" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img align="center" alt="Matheus" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-  <img align="center" alt="Matheus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Matheus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
-  <img align="center" alt="Matheus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Matheus" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img align="center" alt="Matheus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  
-  <img align="center" alt="Matheus" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
-          
-</div>
+## Other tools 🔨
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,git,github,unity" />
+  </a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matheus-Assumpcao/Matheus-Assumpcao/output/github-contribution-grid-snake-dark.svg">
@@ -48,4 +51,4 @@ Sou desenvolvedor fullstack com foco em back-end, com sólida experiência no de
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Matheus-Assumpcao/Matheus-Assumpcao/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF512C&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=19a1ee&height=120&section=footer"/>
