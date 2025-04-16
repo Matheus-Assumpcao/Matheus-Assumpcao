@@ -60,6 +60,5 @@ Sou desenvolvedor fullstack com foco em back-end, com sólida experiência no de
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Matheus-Assumpcao}/count.svg" /></p> 
 <br>
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=footer"/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=19a1ee&height=120&section=footer"/>
