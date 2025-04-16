@@ -47,3 +47,5 @@ Sou desenvolvedor fullstack com foco em back-end, com sólida experiência no de
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Matheus-Assumpcao/Matheus-Assumpcao/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Matheus-Assumpcao/Matheus-Assumpcao/output/github-contribution-grid-snake.svg">
 </picture>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF512C&height=120&section=footer"/>
