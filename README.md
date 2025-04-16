@@ -1,5 +1,7 @@
-### Sejá Bem-Vindo ao meu GitHub!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF512C&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF422C&size=35&center=true&vCenter=true&width=1000&lines=Olá+Visitante!+Eu+sou+o+Matheus+Assumpção;Seja+Bem-Vindo+ao+meu+GitHub!;Olá+Visitante!+Eu+sou+o+Matheus+Assumpção;Seja+Bem-Vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
+<br>
 ##
 
 Sou desenvolvedor fullstack com foco em back-end, com sólida experiência no desenvolvimento de APIs, aplicações web e automação de processos. Atuo em todo o ciclo de desenvolvimento, prezando por código limpo, segurança, performance e escalabilidade. Atualmente curso MBA em Engenharia de Software pela FIAP, visando crescimento técnico e estratégico para assumir desafios maiores.
