@@ -29,9 +29,9 @@ Sou desenvolvedor fullstack com foco em back-end, com sólida experiência no de
   </a>
 </p>
 
-### Conecte-se Comigo
-
 ##
+
+### Conecte-se Comigo
 
 <div> 
   <a href="https://api.whatsapp.com/send?phone=+5511945275553" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
