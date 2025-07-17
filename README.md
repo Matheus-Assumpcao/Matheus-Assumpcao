@@ -25,7 +25,7 @@ Sou desenvolvedor fullstack com foco em back-end, com sólida experiência no de
 ## Outras Ferramentas 🔨
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,aws" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,aws,jest" />
   </a>
 </p>
 
