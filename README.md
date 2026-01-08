@@ -22,10 +22,24 @@ Expected completion: May 2026
 
 ##
 
-### Technologies & Tools
+### Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,nest,typescript,react,postgres,mongodb,mysql,python,php,kotlin,docker,aws,git,github,jest,postman" />
+    <img src="https://skillicons.dev/icons?i=nodejs,nest,typescript,postgres,mongodb,mysql,python,php,kotlin" />
+  </a>
+</p>
+
+### Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,typescript,html,css,tailwind,sass,vite" />
+  </a>
+</p>
+
+### Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,aws,git,github,jest,postman" />
   </a>
 </p>
 
