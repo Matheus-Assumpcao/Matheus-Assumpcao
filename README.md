@@ -4,16 +4,16 @@
 <br>
 ##
 
-Sou um Software Engineer | Full Stack Developer focado na construção de aplicações escaláveis e APIs de alta performance. Atualmente, curso MBA em Engenharia de Software pela FIAP, buscando alinhar excelência técnica aos objetivos de negócio.
+Backend-focused Full Stack Software Engineer specialized in JavaScript/TypeScript, with experience building scalable, secure, and high-performance systems. Currently working on the evolution of an ERP platform at GF Software, focusing on API design, payment integrations, security, and large-scale data optimization.
 
-🚀 O que eu faço:
-Desenvolvimento Full Stack: Experiência no ecossistema JavaScript/TypeScript, utilizando Node.js (NestJS) e React (Next.js).
-Engenharia de Software: Foco total em Clean Code, SOLID, e Testes Automatizados para garantir sistemas sustentáveis.
-Arquitetura de Dados: Modelagem e otimização de bancos de dados NoSQL (MongoDB) e SQL (PostgreSQL/MySQL).
-Automação & Mobile: Criação de RPAs com Python e experiência com desenvolvimento nativo Android (Kotlin).
+Core Stack:
+TypeScript • Node.js • NestJS • React • Next.js • PostgreSQL • MongoDB • SQL
 
-💼 Atuação Atual:
-Atualmente trabalho na evolução do ERP da GF Software, lidando com desafios de escalabilidade, integração de pagamentos e alta disponibilidade.
+Additional Experience:
+Python (RPA) • PHP • Kotlin (Android)
+
+Education:
+MBA in Software Engineering – FIAP (Expected May 2026)
 
 ##
 
