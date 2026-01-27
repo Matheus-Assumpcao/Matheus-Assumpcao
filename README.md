@@ -14,7 +14,7 @@ Currently working on the evolution of an ERP platform, focusing on API design, p
 TypeScript • Node.js • NestJS • React • PostgreSQL • MongoDB • SQL
 
 ### Additional Experience
-Python (RPA) • PHP • Kotlin (Android)
+Python (RPA) • PHP • Kotlin 
 
 ### Education
 MBA in Software Engineering – FIAP  
