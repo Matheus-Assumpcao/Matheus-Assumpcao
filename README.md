@@ -4,9 +4,7 @@
 
 ##
 
-Backend-focused Software Engineer with experience building scalable, secure, and high-performance systems using JavaScript and TypeScript.
-
-Currently working on the evolution of an ERP platform, focusing on API design, payment integrations, application security, and large-scale data optimization.
+Software Engineer with a focus on Full Stack development, currently pursuing an MBA in Software Engineering at FIAP. Specialized in JavaScript/TypeScript (Node.js, NestJS, React) with proven experience in architectural evolution and system modernization. Expert in designing AI-powered solutions using Meta’s API and managing cloud infrastructure via Azure DevOps and GitHub. Dedicated to Clean Code, SOLID principles, and scalable data modeling with PostgreSQL and SQL Server.
 
 ##
 
