@@ -4,12 +4,12 @@
 
 ##
 
-Software Engineer with a focus on Full Stack development, currently pursuing an MBA in Software Engineering at FIAP. Specialized in JavaScript/TypeScript (Node.js, NestJS, React) with proven experience in architectural evolution and system modernization. Expert in designing AI-powered solutions using Meta’s API and managing cloud infrastructure via Azure DevOps and GitHub. Dedicated to Clean Code, SOLID principles, and scalable data modeling with PostgreSQL and SQL Server.
+Software Engineer with a focus on Full Stack development, currently pursuing an MBA in Software Engineering at FIAP. Specialized in JavaScript/TypeScript (Node.js, NestJS, React, Angular) with proven experience in architectural evolution and system modernization. Expert in designing AI-powered solutions using Meta’s API and managing cloud infrastructure via Azure DevOps and GitHub. Dedicated to Clean Code, SOLID principles, and scalable data modeling with PostgreSQL and SQL Server.
 
 ##
 
 ### Core Technologies
-TypeScript • Node.js • NestJS • React • PostgreSQL • MongoDB • SQL
+TypeScript • Node.js • NestJS • React • Angular • PostgreSQL • MongoDB • SQL
 
 ### Additional Experience
 Python (RPA) • PHP • Kotlin 
@@ -30,7 +30,7 @@ Expected completion: May 2026
 ### Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,typescript,html,css,tailwind,sass,vite" />
+    <img src="https://skillicons.dev/icons?i=react,angular,typescript,html,css,tailwind,sass,vite" />
   </a>
 </p>
 
