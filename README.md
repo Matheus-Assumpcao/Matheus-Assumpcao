@@ -30,14 +30,14 @@ Expected completion: May 2026
 ### Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,angular,typescript,html,css,tailwind,sass,vite" />
+    <img src="https://skillicons.dev/icons?i=react,angular,next,typescript,html,css,tailwind,sass,vite" />
   </a>
 </p>
 
 ### Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,aws,git,github,jest,postman" />
+    <img src="https://skillicons.dev/icons?i=docker,aws,azuredevops,git,github,jest,postman" />
   </a>
 </p>
 
