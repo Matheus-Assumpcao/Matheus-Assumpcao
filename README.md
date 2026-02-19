@@ -37,7 +37,7 @@ Expected completion: May 2026
 ### Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,aws,azuredevops,git,github,jest,postman" />
+    <img src="https://skillicons.dev/icons?i=docker,aws,azure,git,github,jest,postman" />
   </a>
 </p>
 
