@@ -56,8 +56,8 @@ Full Stack Software Engineer with a strong backend focus and an **MBA in Softwar
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Matheus-Assumpcao&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=19a1ee&icon_color=19a1ee&text_color=c9d1d9"/>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Matheus-Assumpcao&layout=compact&langs_count=7&hide_border=true&bg_color=0d1117&title_color=19a1ee&text_color=c9d1d9"/>
+  <img height="170" src="https://github-readme-stats-puce-one-21.vercel.app/api?username=Matheus-Assumpcao&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=19a1ee&icon_color=19a1ee&text_color=c9d1d9"/>
+  <img height="170" src="https://github-readme-stats-puce-one-21.vercel.app/api/top-langs/?username=Matheus-Assumpcao&layout=compact&langs_count=7&hide_border=true&bg_color=0d1117&title_color=19a1ee&text_color=c9d1d9"/>
 </div>
 
 <div align="center">
